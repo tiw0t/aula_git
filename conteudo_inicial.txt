@@ -21,4 +21,4 @@ Comandos Git OPERAÇÕES REMOTAS
     - Adiciona um repositório remoto com o nome "origin"
 3. git push -u origin main
     - Envia os commits da branch "main" para o repositório remoto "origin"
-    
+# verificando o status do repositório e se a sincronização foi bem-sucedida
