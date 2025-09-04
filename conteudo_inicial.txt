@@ -2,3 +2,23 @@ Versão 1: Este conteúdo inicial do arquivo
 Versão 2: Adiciona uma segunda linha com informações atualizadas.
 Versão 3: Corrigindo erro de digitação adicionado aos detalhes.
 
+Comandos Git OPERAÇÕES LOCAIS
+1. git init
+    - Inicializa um novo repositório Git local
+2. git add {nome_arquivo}
+    - Adiciona um arquivo específico à área de stage (preparação para commit)
+3. git commit -m "mensagem do commit"
+    - Cria um commit com uma mensagem descritiva
+4. git log
+    - Exibe o histórico de commits do repositório
+5. git status
+    - Mostra o status atual do repositório, incluindo arquivos modificados e não rast
+
+Comandos Git OPERAÇÕES REMOTAS
+1. git branch -M main
+    - Renomeia a branch atual para "main"
+2. git remote add origin {url_do_repositorio}
+    - Adiciona um repositório remoto com o nome "origin"
+3. git push -u origin main
+    - Envia os commits da branch "main" para o repositório remoto "origin"
+    
