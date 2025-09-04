@@ -1,1 +1,2 @@
 Versão 1: Este conteúdo inicial do arquivo
+Versão 2: Adiciona uma segunda linha com informações atualizadas.
